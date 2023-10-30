@@ -8,4 +8,5 @@ She would like to know what the attrition rate is (% of people who have left).
 
 She would also like to know if factors like age, years at the company and income play a part indetermining if people will leave or not.
 
-![Image](HR Analytics for Green Destination.png)
+![Image](https://github.com/Arulprakasam18/Twilearn_HR_Analytics/blob/main/HR%20Analytics%20for%20Green%20Destination.png)
+
