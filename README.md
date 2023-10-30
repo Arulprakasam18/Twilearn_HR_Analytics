@@ -10,3 +10,5 @@ She would also like to know if factors like age, years at the company and income
 
 ![Image](https://github.com/Arulprakasam18/Twilearn_HR_Analytics/blob/main/HR%20Analytics%20for%20Green%20Destination.png)
 
+link tableau : https://public.tableau.com/views/HRAnalyticsforGreenDestinations_16984166319870/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
